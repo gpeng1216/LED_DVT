@@ -1,0 +1,4 @@
+Added Component: Designator=R105(RES0402_SENSE_DVT)
+Added Pin To Net: NetName=IC_OUT Pin=R105-1
+Added Pin To Net: NetName=DO Pin=R105-2
+Added Member To Class: ClassName=LED_ring Member=Component R105 DNP

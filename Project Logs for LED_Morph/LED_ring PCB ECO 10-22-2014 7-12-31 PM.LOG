@@ -1,0 +1,33 @@
+Added Pin To Net: NetName=AGND Pin=C103-1
+Added Pin To Net: NetName=NetC103_2 Pin=C103-2
+Added Pin To Net: NetName=NetC111_2 Pin=C111-2
+Added Pin To Net: NetName=AGND Pin=C112-1
+Added Pin To Net: NetName=NetC112_2 Pin=C112-2
+Added Pin To Net: NetName=NetC103_2 Pin=R112-1
+Added Pin To Net: NetName=VCC Pin=R112-2
+Added Pin To Net: NetName=NetC111_2 Pin=R120-1
+Added Pin To Net: NetName=VCC Pin=R120-2
+Added Pin To Net: NetName=NetC112_2 Pin=R121-1
+Added Pin To Net: NetName=VCC Pin=R121-2
+Added Member To Class: ClassName=LED_ring Member=Component C102 0.1u
+Added Member To Class: ClassName=LED_ring Member=Component C103 0.1u
+Added Member To Class: ClassName=LED_ring Member=Component C104 0.1u
+Added Member To Class: ClassName=LED_ring Member=Component C105 0.1u
+Added Member To Class: ClassName=LED_ring Member=Component C106 0.1u
+Added Member To Class: ClassName=LED_ring Member=Component C107 0.1u
+Added Member To Class: ClassName=LED_ring Member=Component C108 0.1u
+Added Member To Class: ClassName=LED_ring Member=Component C109 0.1u
+Added Member To Class: ClassName=LED_ring Member=Component C110 0.1u
+Added Member To Class: ClassName=LED_ring Member=Component C111 0.1u
+Added Member To Class: ClassName=LED_ring Member=Component C112 0.1u
+Added Member To Class: ClassName=LED_ring Member=Component R111 150
+Added Member To Class: ClassName=LED_ring Member=Component R112 150
+Added Member To Class: ClassName=LED_ring Member=Component R113 150
+Added Member To Class: ClassName=LED_ring Member=Component R114 150
+Added Member To Class: ClassName=LED_ring Member=Component R115 150
+Added Member To Class: ClassName=LED_ring Member=Component R116 150
+Added Member To Class: ClassName=LED_ring Member=Component R117 150
+Added Member To Class: ClassName=LED_ring Member=Component R118 150
+Added Member To Class: ClassName=LED_ring Member=Component R119 150
+Added Member To Class: ClassName=LED_ring Member=Component R120 150
+Added Member To Class: ClassName=LED_ring Member=Component R121 150

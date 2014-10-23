@@ -1,0 +1,193 @@
+Removed Pin From Net: NetName=VCC Pin=C101-2
+Removed Pin From Net: NetName=VCC Pin=C102-2
+Removed Pin From Net: NetName=VCC Pin=C103-2
+Removed Pin From Net: NetName=VCC Pin=C104-2
+Removed Pin From Net: NetName=VCC Pin=C105-2
+Removed Pin From Net: NetName=VCC Pin=C106-2
+Removed Pin From Net: NetName=VCC Pin=R10l-1
+Removed Pin From Net: NetName=VIN Pin=R10l-2
+Removed Pin From Net: NetName=DI Pin=Rin101-1
+Removed Pin From Net: NetName=VCC Pin=U101-3
+Removed Pin From Net: NetName=VCC Pin=U102-3
+Removed Pin From Net: NetName=VCC Pin=U103-3
+Removed Pin From Net: NetName=VCC Pin=U104-3
+Removed Pin From Net: NetName=VCC Pin=U105-3
+Removed Pin From Net: NetName=VCC Pin=U106-3
+Removed Pin From Net: NetName=VCC Pin=U107-3
+Removed Pin From Net: NetName=VCC Pin=U108-3
+Removed Pin From Net: NetName=VCC Pin=U109-3
+Removed Pin From Net: NetName=VCC Pin=U110-3
+Removed Pin From Net: NetName=VCC Pin=U111-3
+Removed Pin From Net: NetName=DO Pin=U112-1
+Removed Pin From Net: NetName=VCC Pin=U112-3
+Change Component DesignItemId : Designator=R10l Old DesignItemId=R_10k_0.5_0.063_0402 New DesignItemId=R_1.5k_5_0.1_0402
+Change Component Footprint: Designator=C101 Old Footprint=CAP0603 New Footprint=CAP0603_SENSE_DVT
+Change Component Footprint: Designator=C102 Old Footprint=CAP0603 New Footprint=CAP0603_SENSE_DVT
+Change Component Footprint: Designator=C103 Old Footprint=CAP0603 New Footprint=CAP0603_SENSE_DVT
+Change Component Footprint: Designator=C104 Old Footprint=CAP0603 New Footprint=CAP0603_SENSE_DVT
+Change Component Footprint: Designator=C105 Old Footprint=CAP0603 New Footprint=CAP0603_SENSE_DVT
+Change Component Footprint: Designator=C106 Old Footprint=CAP0603 New Footprint=CAP0603_SENSE_DVT
+Change Component Footprint: Designator=R10l Old Footprint=RES0402 New Footprint=RES0402_SENSE_DVT
+Change Component Footprint: Designator=Rin101 Old Footprint=RES0402 New Footprint=RES0402_SENSE_DVT
+Change Component Comment : Designator=R10l Old Comment=2.7k New Comment=1.5k
+Change Component Comment : Designator=C101 Old Comment=6u New Comment=0.1u
+Change Component Comment : Designator=C102 Old Comment=6u New Comment=0.1u
+Change Component Comment : Designator=C103 Old Comment=6u New Comment=0.1u
+Change Component Comment : Designator=C104 Old Comment=6u New Comment=0.1u
+Change Component Comment : Designator=C105 Old Comment=6u New Comment=0.1u
+Change Component Comment : Designator=C106 Old Comment=6u New Comment=0.1u
+Change Component Comment : Designator=Rin101 Old Comment=470 New Comment=475
+Change Component Comment : Designator=U101 Old Comment=WS2812 New Comment=WS2812S
+Change Component Comment : Designator=U102 Old Comment=WS2812 New Comment=WS2812S
+Change Component Comment : Designator=U103 Old Comment=WS2812 New Comment=WS2812S
+Change Component Comment : Designator=U104 Old Comment=WS2812 New Comment=WS2812S
+Change Component Comment : Designator=U105 Old Comment=WS2812 New Comment=WS2812S
+Change Component Comment : Designator=U106 Old Comment=WS2812 New Comment=WS2812S
+Change Component Comment : Designator=U107 Old Comment=WS2812 New Comment=WS2812S
+Change Component Comment : Designator=U108 Old Comment=WS2812 New Comment=WS2812S
+Change Component Comment : Designator=U109 Old Comment=WS2812 New Comment=WS2812S
+Change Component Comment : Designator=U110 Old Comment=WS2812 New Comment=WS2812S
+Change Component Comment : Designator=U111 Old Comment=WS2812 New Comment=WS2812S
+Change Component Comment : Designator=U112 Old Comment=WS2812 New Comment=WS2812S
+Added Component: Designator=*(SOT363-6M)
+Added Component: Designator=C107(CAP0603_SENSE_DVT)
+Added Component: Designator=C108(CAP0603_SENSE_DVT)
+Added Component: Designator=C109(CAP0603_SENSE_DVT)
+Added Component: Designator=C110(CAP0603_SENSE_DVT)
+Added Component: Designator=C111(CAP0603_SENSE_DVT)
+Added Component: Designator=C112(CAP0603_SENSE_DVT)
+Added Component: Designator=C113(CAP0402_SENSE_DVT)
+Added Component: Designator=R102(RES0402_SENSE_DVT)
+Added Component: Designator=R103(RES0402_SENSE_DVT)
+Added Component: Designator=R104(RES0402_SENSE_DVT)
+Added Component: Designator=R106(RES0402_SENSE_DVT)
+Added Component: Designator=R107(RES0402_SENSE_DVT)
+Added Component: Designator=R110(RES0402_SENSE_DVT)
+Added Component: Designator=R111(RES0402_SENSE_DVT)
+Added Component: Designator=R112(RES0402_SENSE_DVT)
+Added Component: Designator=R113(RES0402_SENSE_DVT)
+Added Component: Designator=R114(RES0402_SENSE_DVT)
+Added Component: Designator=R115(RES0402_SENSE_DVT)
+Added Component: Designator=R116(RES0402_SENSE_DVT)
+Added Component: Designator=R117(RES0402_SENSE_DVT)
+Added Component: Designator=R118(RES0402_SENSE_DVT)
+Added Component: Designator=R119(RES0402_SENSE_DVT)
+Added Component: Designator=R120(RES0402_SENSE_DVT)
+Added Component: Designator=R121(RES0402_SENSE_DVT)
+Added Pin To Net: NetName=AGND Pin=*-2
+Added Pin To Net: NetName=VCC Pin=*-5
+Added Pin To Net: NetName=AGND Pin=C107-1
+Added Pin To Net: NetName=AGND Pin=C108-1
+Added Pin To Net: NetName=AGND Pin=C109-1
+Added Pin To Net: NetName=AGND Pin=C110-1
+Added Pin To Net: NetName=AGND Pin=C111-1
+Added Pin To Net: NetName=AGND Pin=C112-1
+Added Pin To Net: NetName=VCC Pin=C113-1
+Added Pin To Net: NetName=AGND Pin=C113-2
+Added Pin To Net: NetName=VIN Pin=R10l-1
+Added Pin To Net: NetName=VCC Pin=R10l-2
+Added Pin To Net: NetName=AGND Pin=R102-1
+Added Pin To Net: NetName=DI Pin=R103-2
+Added Pin To Net: NetName=DO Pin=R104-2
+Added Pin To Net: NetName=VCC Pin=R110-2
+Added Pin To Net: NetName=VCC Pin=R111-2
+Added Pin To Net: NetName=VCC Pin=R112-2
+Added Pin To Net: NetName=VCC Pin=R113-2
+Added Pin To Net: NetName=VCC Pin=R114-2
+Added Pin To Net: NetName=VCC Pin=R115-2
+Added Pin To Net: NetName=VCC Pin=R116-2
+Added Pin To Net: NetName=VCC Pin=R117-2
+Added Pin To Net: NetName=VCC Pin=R118-2
+Added Pin To Net: NetName=VCC Pin=R119-2
+Added Pin To Net: NetName=VCC Pin=R120-2
+Added Pin To Net: NetName=VCC Pin=R121-2
+Added Pin To Net: NetName=IC_OUT Pin=*-3
+Added Pin To Net: NetName=IC_OUT Pin=U112-1
+Added Net: Name=IC_OUT
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=R102-2
+Added Pin To Net: NetName=Net*_1 Pin=R106-2
+Added Net: Name=Net*_1
+Added Pin To Net: NetName=Net*_4 Pin=*-4
+Added Pin To Net: NetName=Net*_4 Pin=R104-1
+Added Net: Name=Net*_4
+Added Pin To Net: NetName=Net*_6 Pin=*-6
+Added Pin To Net: NetName=Net*_6 Pin=R103-1
+Added Net: Name=Net*_6
+Added Pin To Net: NetName=NetC101_2 Pin=C101-2
+Added Pin To Net: NetName=NetC101_2 Pin=R110-1
+Added Pin To Net: NetName=NetC101_2 Pin=U101-3
+Added Net: Name=NetC101_2
+Added Pin To Net: NetName=NetC102_2 Pin=C102-2
+Added Pin To Net: NetName=NetC102_2 Pin=R111-1
+Added Pin To Net: NetName=NetC102_2 Pin=U102-3
+Added Net: Name=NetC102_2
+Added Pin To Net: NetName=NetC103_2 Pin=C103-2
+Added Pin To Net: NetName=NetC103_2 Pin=R112-1
+Added Pin To Net: NetName=NetC103_2 Pin=U103-3
+Added Net: Name=NetC103_2
+Added Pin To Net: NetName=NetC104_2 Pin=C104-2
+Added Pin To Net: NetName=NetC104_2 Pin=R113-1
+Added Pin To Net: NetName=NetC104_2 Pin=U104-3
+Added Net: Name=NetC104_2
+Added Pin To Net: NetName=NetC105_2 Pin=C105-2
+Added Pin To Net: NetName=NetC105_2 Pin=R114-1
+Added Pin To Net: NetName=NetC105_2 Pin=U105-3
+Added Net: Name=NetC105_2
+Added Pin To Net: NetName=NetC106_2 Pin=C106-2
+Added Pin To Net: NetName=NetC106_2 Pin=R115-1
+Added Pin To Net: NetName=NetC106_2 Pin=U106-3
+Added Net: Name=NetC106_2
+Added Pin To Net: NetName=NetC107_2 Pin=C107-2
+Added Pin To Net: NetName=NetC107_2 Pin=R116-1
+Added Pin To Net: NetName=NetC107_2 Pin=U107-3
+Added Net: Name=NetC107_2
+Added Pin To Net: NetName=NetC108_2 Pin=C108-2
+Added Pin To Net: NetName=NetC108_2 Pin=R117-1
+Added Pin To Net: NetName=NetC108_2 Pin=U108-3
+Added Net: Name=NetC108_2
+Added Pin To Net: NetName=NetC109_2 Pin=C109-2
+Added Pin To Net: NetName=NetC109_2 Pin=R118-1
+Added Pin To Net: NetName=NetC109_2 Pin=U109-3
+Added Net: Name=NetC109_2
+Added Pin To Net: NetName=NetC110_2 Pin=C110-2
+Added Pin To Net: NetName=NetC110_2 Pin=R119-1
+Added Pin To Net: NetName=NetC110_2 Pin=U110-3
+Added Net: Name=NetC110_2
+Added Pin To Net: NetName=NetC111_2 Pin=C111-2
+Added Pin To Net: NetName=NetC111_2 Pin=R120-1
+Added Pin To Net: NetName=NetC111_2 Pin=U111-3
+Added Net: Name=NetC111_2
+Added Pin To Net: NetName=NetC112_2 Pin=C112-2
+Added Pin To Net: NetName=NetC112_2 Pin=R121-1
+Added Pin To Net: NetName=NetC112_2 Pin=U112-3
+Added Net: Name=NetC112_2
+Added Pin To Net: NetName=NetR106_1 Pin=R106-1
+Added Pin To Net: NetName=NetR106_1 Pin=R107-1
+Added Pin To Net: NetName=NetR106_1 Pin=Rin101-1
+Added Net: Name=NetR106_1
+Added Member To Class: ClassName=LED_ring Member=Component * 74HCT2G04
+Added Member To Class: ClassName=LED_ring Member=Component C107 0.1u
+Added Member To Class: ClassName=LED_ring Member=Component C108 0.1u
+Added Member To Class: ClassName=LED_ring Member=Component C109 0.1u
+Added Member To Class: ClassName=LED_ring Member=Component C110 0.1u
+Added Member To Class: ClassName=LED_ring Member=Component C111 0.1u
+Added Member To Class: ClassName=LED_ring Member=Component C112 0.1u
+Added Member To Class: ClassName=LED_ring Member=Component C113 0.1u
+Added Member To Class: ClassName=LED_ring Member=Component R102 1.5k
+Added Member To Class: ClassName=LED_ring Member=Component R103 100
+Added Member To Class: ClassName=LED_ring Member=Component R104 100
+Added Member To Class: ClassName=LED_ring Member=Component R106 0
+Added Member To Class: ClassName=LED_ring Member=Component R107 DNP
+Added Member To Class: ClassName=LED_ring Member=Component R110 150
+Added Member To Class: ClassName=LED_ring Member=Component R111 150
+Added Member To Class: ClassName=LED_ring Member=Component R112 150
+Added Member To Class: ClassName=LED_ring Member=Component R113 150
+Added Member To Class: ClassName=LED_ring Member=Component R114 150
+Added Member To Class: ClassName=LED_ring Member=Component R115 150
+Added Member To Class: ClassName=LED_ring Member=Component R116 150
+Added Member To Class: ClassName=LED_ring Member=Component R117 150
+Added Member To Class: ClassName=LED_ring Member=Component R118 150
+Added Member To Class: ClassName=LED_ring Member=Component R119 150
+Added Member To Class: ClassName=LED_ring Member=Component R120 150
+Added Member To Class: ClassName=LED_ring Member=Component R121 150
