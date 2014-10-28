@@ -1,0 +1,255 @@
+Removed Pin From Net: NetName=VCC Pin=*-5
+Removed Pin From Net: NetName=VCC Pin=C113-1
+Removed Pin From Net: NetName=VCC Pin=R10l-2
+Removed Pin From Net: NetName=VCC Pin=R110-2
+Removed Pin From Net: NetName=VCC Pin=R111-2
+Removed Pin From Net: NetName=VCC Pin=R112-2
+Removed Pin From Net: NetName=VCC Pin=R113-2
+Removed Pin From Net: NetName=VCC Pin=R114-2
+Removed Pin From Net: NetName=VCC Pin=R115-2
+Removed Pin From Net: NetName=VCC Pin=R116-2
+Removed Pin From Net: NetName=VCC Pin=R117-2
+Removed Pin From Net: NetName=VCC Pin=R118-2
+Removed Pin From Net: NetName=VCC Pin=R119-2
+Removed Pin From Net: NetName=VCC Pin=R120-2
+Removed Pin From Net: NetName=VCC Pin=R121-2
+Removed Pin From Net: NetName=VCC Pin=U102-5
+Removed Pin From Net: NetName=VCC Pin=U103-5
+Removed Pin From Net: NetName=VCC Pin=U104-5
+Removed Pin From Net: NetName=VCC Pin=U105-5
+Removed Pin From Net: NetName=VCC Pin=U106-5
+Removed Pin From Net: NetName=VCC Pin=U107-5
+Removed Pin From Net: NetName=VCC Pin=U108-5
+Removed Pin From Net: NetName=VCC Pin=U109-5
+Removed Pin From Net: NetName=VCC Pin=U110-5
+Removed Pin From Net: NetName=VCC Pin=U111-5
+Removed Pin From Net: NetName=VCC Pin=U112-5
+Removed Member From Class: ClassName=Morpheus_LED1 Member=*
+Removed Member From Class: ClassName=Morpheus_LED2 Member=C101
+Removed Member From Class: ClassName=Morpheus_LED2 Member=C102
+Removed Member From Class: ClassName=Morpheus_LED2 Member=C103
+Removed Member From Class: ClassName=Morpheus_LED2 Member=C104
+Removed Member From Class: ClassName=Morpheus_LED2 Member=C105
+Removed Member From Class: ClassName=Morpheus_LED2 Member=C106
+Removed Member From Class: ClassName=Morpheus_LED2 Member=C107
+Removed Member From Class: ClassName=Morpheus_LED2 Member=C108
+Removed Member From Class: ClassName=Morpheus_LED2 Member=C109
+Removed Member From Class: ClassName=Morpheus_LED2 Member=C110
+Removed Member From Class: ClassName=Morpheus_LED2 Member=C111
+Removed Member From Class: ClassName=Morpheus_LED2 Member=C112
+Removed Member From Class: ClassName=Morpheus_LED1 Member=C113
+Removed Member From Class: ClassName=Morpheus_LED1 Member=R10l
+Removed Member From Class: ClassName=Morpheus_LED2 Member=R110
+Removed Member From Class: ClassName=Morpheus_LED2 Member=R111
+Removed Member From Class: ClassName=Morpheus_LED2 Member=R112
+Removed Member From Class: ClassName=Morpheus_LED2 Member=R113
+Removed Member From Class: ClassName=Morpheus_LED2 Member=R114
+Removed Member From Class: ClassName=Morpheus_LED2 Member=R115
+Removed Member From Class: ClassName=Morpheus_LED2 Member=R116
+Removed Member From Class: ClassName=Morpheus_LED2 Member=R117
+Removed Member From Class: ClassName=Morpheus_LED2 Member=R118
+Removed Member From Class: ClassName=Morpheus_LED2 Member=R119
+Removed Member From Class: ClassName=Morpheus_LED2 Member=R120
+Removed Member From Class: ClassName=Morpheus_LED2 Member=R121
+Removed Member From Class: ClassName=Morpheus_LED1 Member=Rin101
+Removed Member From Class: ClassName=Morpheus_LED2 Member=U101
+Removed Member From Class: ClassName=Morpheus_LED2 Member=U102
+Removed Member From Class: ClassName=Morpheus_LED2 Member=U103
+Removed Member From Class: ClassName=Morpheus_LED2 Member=U104
+Removed Member From Class: ClassName=Morpheus_LED2 Member=U105
+Removed Member From Class: ClassName=Morpheus_LED2 Member=U106
+Removed Member From Class: ClassName=Morpheus_LED2 Member=U107
+Removed Member From Class: ClassName=Morpheus_LED2 Member=U108
+Removed Member From Class: ClassName=Morpheus_LED2 Member=U109
+Removed Member From Class: ClassName=Morpheus_LED2 Member=U110
+Removed Member From Class: ClassName=Morpheus_LED2 Member=U111
+Removed Member From Class: ClassName=Morpheus_LED2 Member=U112
+Change Component DesignItemId : Designator=C101 Old DesignItemId=C_10u_10_6.3_X5R_0603 New DesignItemId=C_0.1u_10_50_X7R_0402
+Change Component DesignItemId : Designator=R107 Old DesignItemId=R_0_jumper_0.1_0402 New DesignItemId=R_100_1_0.1_0402
+Change Component DesignItemId : Designator=R102 Old DesignItemId=R_1.5k_5_0.1_0402 New DesignItemId=R_475_1_0.1_0402
+Change Component DesignItemId : Designator=R103 Old DesignItemId=R_100_1_0.1_0402 New DesignItemId=R_0_jumper_0.1_0402
+Change Component DesignItemId : Designator=R105 Old DesignItemId=R_100_1_0.1_0402 New DesignItemId=R_1.5k_5_0.1_0402
+Change Component DesignItemId : Designator=U101 Old DesignItemId=WS2812S New DesignItemId=74HCT2G04
+Change Component Footprint: Designator=U101 Old Footprint=6PIN_WS2812 New Footprint=SOT65P210X110-6N
+Change Component Footprint: Designator=C101 Old Footprint=CAP0603_SENSE_DVT New Footprint=CAP0402_SENSE_DVT
+Change Component Comment : Designator=R107 Old Comment=0 New Comment=100
+Change Component Comment : Designator=R102 Old Comment=1.5k New Comment=475
+Change Component Comment : Designator=R103 Old Comment=100 New Comment=DNP
+Change Component Comment : Designator=R106 Old Comment=DNP New Comment=0
+Change Component Comment : Designator=R105 Old Comment=DNP New Comment=1.5k
+Change Component Comment : Designator=U101 Old Comment=WS2812S New Comment=DNP
+Added Component: Designator=C201(CAP0402_SENSE_DVT)
+Added Component: Designator=C202(CAP0402_SENSE_DVT)
+Added Component: Designator=C203(CAP0402_SENSE_DVT)
+Added Component: Designator=C204(CAP0402_SENSE_DVT)
+Added Component: Designator=C205(CAP0402_SENSE_DVT)
+Added Component: Designator=C206(CAP0402_SENSE_DVT)
+Added Component: Designator=C207(CAP0402_SENSE_DVT)
+Added Component: Designator=C208(CAP0402_SENSE_DVT)
+Added Component: Designator=C209(CAP0402_SENSE_DVT)
+Added Component: Designator=C210(CAP0402_SENSE_DVT)
+Added Component: Designator=C211(CAP0402_SENSE_DVT)
+Added Component: Designator=C212(CAP0402_SENSE_DVT)
+Added Component: Designator=C213(CAP0402_SENSE_DVT)
+Added Component: Designator=C214(CAP0402_SENSE_DVT)
+Added Component: Designator=C215(CAP0402_SENSE_DVT)
+Added Component: Designator=C216(CAP0402_SENSE_DVT)
+Added Component: Designator=C217(CAP0402_SENSE_DVT)
+Added Component: Designator=C218(CAP0402_SENSE_DVT)
+Added Component: Designator=R101(RES0402_SENSE_DVT)
+Added Component: Designator=R108(RES0402_SENSE_DVT)
+Added Component: Designator=R201(RES0402_SENSE_DVT)
+Added Component: Designator=R202(RES0402_SENSE_DVT)
+Added Component: Designator=R203(RES0402_SENSE_DVT)
+Added Component: Designator=R204(RES0402_SENSE_DVT)
+Added Component: Designator=R205(RES0402_SENSE_DVT)
+Added Component: Designator=R206(RES0402_SENSE_DVT)
+Added Component: Designator=R207(RES0402_SENSE_DVT)
+Added Component: Designator=R208(RES0402_SENSE_DVT)
+Added Component: Designator=R209(RES0402_SENSE_DVT)
+Added Component: Designator=R210(RES0402_SENSE_DVT)
+Added Component: Designator=R211(RES0402_SENSE_DVT)
+Added Component: Designator=R212(RES0402_SENSE_DVT)
+Added Pin To Net: NetName=VCC Pin=C101-1
+Added Pin To Net: NetName=1Y Pin=R104-1
+Added Pin To Net: NetName=1Y Pin=U101-6
+Added Net: Name=1Y
+Added Pin To Net: NetName=2Y Pin=R107-1
+Added Pin To Net: NetName=2Y Pin=U101-4
+Added Net: Name=2Y
+Added Pin To Net: NetName=5V Pin=C201-2
+Added Pin To Net: NetName=5V Pin=C202-2
+Added Pin To Net: NetName=5V Pin=C207-2
+Added Pin To Net: NetName=5V Pin=C208-2
+Added Pin To Net: NetName=5V Pin=C213-2
+Added Pin To Net: NetName=5V Pin=C214-2
+Added Pin To Net: NetName=5V Pin=R101-2
+Added Pin To Net: NetName=5V Pin=R201-2
+Added Pin To Net: NetName=5V Pin=R202-2
+Added Pin To Net: NetName=5V Pin=R203-2
+Added Pin To Net: NetName=5V Pin=R204-2
+Added Pin To Net: NetName=5V Pin=R205-2
+Added Pin To Net: NetName=5V Pin=R206-2
+Added Pin To Net: NetName=5V Pin=R207-2
+Added Pin To Net: NetName=5V Pin=R208-2
+Added Pin To Net: NetName=5V Pin=R209-2
+Added Pin To Net: NetName=5V Pin=R210-2
+Added Pin To Net: NetName=5V Pin=R211-2
+Added Pin To Net: NetName=5V Pin=R212-2
+Added Net: Name=5V
+Added Pin To Net: NetName=DI_201 Pin=R104-2
+Added Pin To Net: NetName=DI_201 Pin=R106-2
+Added Net: Name=DI_201
+Added Pin To Net: NetName=DI_N Pin=R103-2
+Added Pin To Net: NetName=DI_N Pin=R105-2
+Added Pin To Net: NetName=DI_N Pin=U101-1
+Added Net: Name=DI_N
+Added Net: Name=DO_201
+Added Net: Name=DO_202
+Added Net: Name=DO_203
+Added Net: Name=DO_204
+Added Net: Name=DO_205
+Added Net: Name=DO_206
+Added Net: Name=DO_207
+Added Net: Name=DO_208
+Added Net: Name=DO_209
+Added Net: Name=DO_210
+Added Net: Name=DO_211
+Added Pin To Net: NetName=DO_212 Pin=R108-1
+Added Pin To Net: NetName=DO_212 Pin=U101-3
+Added Net: Name=DO_212
+Added Pin To Net: NetName=GND Pin=C101-2
+Added Pin To Net: NetName=GND Pin=C201-1
+Added Pin To Net: NetName=GND Pin=C202-1
+Added Pin To Net: NetName=GND Pin=C203-1
+Added Pin To Net: NetName=GND Pin=C204-1
+Added Pin To Net: NetName=GND Pin=C205-1
+Added Pin To Net: NetName=GND Pin=C206-1
+Added Pin To Net: NetName=GND Pin=C207-1
+Added Pin To Net: NetName=GND Pin=C208-1
+Added Pin To Net: NetName=GND Pin=C209-1
+Added Pin To Net: NetName=GND Pin=C210-1
+Added Pin To Net: NetName=GND Pin=C211-1
+Added Pin To Net: NetName=GND Pin=C212-1
+Added Pin To Net: NetName=GND Pin=C213-1
+Added Pin To Net: NetName=GND Pin=C214-1
+Added Pin To Net: NetName=GND Pin=C215-1
+Added Pin To Net: NetName=GND Pin=C216-1
+Added Pin To Net: NetName=GND Pin=C217-1
+Added Pin To Net: NetName=GND Pin=C218-1
+Added Pin To Net: NetName=GND Pin=R105-1
+Added Pin To Net: NetName=GND Pin=U101-2
+Added Net: Name=GND
+Added Pin To Net: NetName=LED_RING_DI Pin=R101-1
+Added Pin To Net: NetName=LED_RING_DI Pin=R102-2
+Added Net: Name=LED_RING_DI
+Added Pin To Net: NetName=LED_RING_DO Pin=R107-2
+Added Pin To Net: NetName=LED_RING_DO Pin=R108-2
+Added Net: Name=LED_RING_DO
+Added Pin To Net: NetName=NetR102_1 Pin=R102-1
+Added Pin To Net: NetName=NetR102_1 Pin=R103-1
+Added Pin To Net: NetName=NetR102_1 Pin=R106-1
+Added Net: Name=NetR102_1
+Added Pin To Net: NetName=VCC_201 Pin=C203-2
+Added Pin To Net: NetName=VCC_201 Pin=C209-2
+Added Pin To Net: NetName=VCC_201 Pin=C215-2
+Added Pin To Net: NetName=VCC_201 Pin=R201-1
+Added Pin To Net: NetName=VCC_201 Pin=R205-1
+Added Pin To Net: NetName=VCC_201 Pin=R209-1
+Added Net: Name=VCC_201
+Added Pin To Net: NetName=VCC_202 Pin=C204-2
+Added Pin To Net: NetName=VCC_202 Pin=C210-2
+Added Pin To Net: NetName=VCC_202 Pin=C216-2
+Added Pin To Net: NetName=VCC_202 Pin=R202-1
+Added Pin To Net: NetName=VCC_202 Pin=R206-1
+Added Pin To Net: NetName=VCC_202 Pin=R210-1
+Added Net: Name=VCC_202
+Added Pin To Net: NetName=VCC_203 Pin=C205-2
+Added Pin To Net: NetName=VCC_203 Pin=C211-2
+Added Pin To Net: NetName=VCC_203 Pin=C217-2
+Added Pin To Net: NetName=VCC_203 Pin=R203-1
+Added Pin To Net: NetName=VCC_203 Pin=R207-1
+Added Pin To Net: NetName=VCC_203 Pin=R211-1
+Added Net: Name=VCC_203
+Added Pin To Net: NetName=VCC_204 Pin=C206-2
+Added Pin To Net: NetName=VCC_204 Pin=C212-2
+Added Pin To Net: NetName=VCC_204 Pin=C218-2
+Added Pin To Net: NetName=VCC_204 Pin=R204-1
+Added Pin To Net: NetName=VCC_204 Pin=R208-1
+Added Pin To Net: NetName=VCC_204 Pin=R212-1
+Added Net: Name=VCC_204
+Added Member To Class: ClassName=Morpheus_LED1 Member=Component C101 0.1u
+Added Member To Class: ClassName=Morpheus_LED2 Member=Component C201 4.7u
+Added Member To Class: ClassName=Morpheus_LED2 Member=Component C202 4.7u
+Added Member To Class: ClassName=Morpheus_LED2 Member=Component C203 0.1u
+Added Member To Class: ClassName=Morpheus_LED2 Member=Component C204 0.1u
+Added Member To Class: ClassName=Morpheus_LED2 Member=Component C205 0.1u
+Added Member To Class: ClassName=Morpheus_LED2 Member=Component C206 0.1u
+Added Member To Class: ClassName=Morpheus_LED2 Member=Component C207 4.7u
+Added Member To Class: ClassName=Morpheus_LED2 Member=Component C208 4.7u
+Added Member To Class: ClassName=Morpheus_LED2 Member=Component C209 0.1u
+Added Member To Class: ClassName=Morpheus_LED2 Member=Component C210 0.1u
+Added Member To Class: ClassName=Morpheus_LED2 Member=Component C211 0.1u
+Added Member To Class: ClassName=Morpheus_LED2 Member=Component C212 0.1u
+Added Member To Class: ClassName=Morpheus_LED2 Member=Component C213 4.7u
+Added Member To Class: ClassName=Morpheus_LED2 Member=Component C214 4.7u
+Added Member To Class: ClassName=Morpheus_LED2 Member=Component C215 0.1u
+Added Member To Class: ClassName=Morpheus_LED2 Member=Component C216 0.1u
+Added Member To Class: ClassName=Morpheus_LED2 Member=Component C217 0.1u
+Added Member To Class: ClassName=Morpheus_LED2 Member=Component C218 0.1u
+Added Member To Class: ClassName=Morpheus_LED1 Member=Component R101 1.5k
+Added Member To Class: ClassName=Morpheus_LED1 Member=Component R108 DNP
+Added Member To Class: ClassName=Morpheus_LED2 Member=Component R201 150
+Added Member To Class: ClassName=Morpheus_LED2 Member=Component R202 150
+Added Member To Class: ClassName=Morpheus_LED2 Member=Component R203 150
+Added Member To Class: ClassName=Morpheus_LED2 Member=Component R204 150
+Added Member To Class: ClassName=Morpheus_LED2 Member=Component R205 150
+Added Member To Class: ClassName=Morpheus_LED2 Member=Component R206 150
+Added Member To Class: ClassName=Morpheus_LED2 Member=Component R207 150
+Added Member To Class: ClassName=Morpheus_LED2 Member=Component R208 150
+Added Member To Class: ClassName=Morpheus_LED2 Member=Component R209 150
+Added Member To Class: ClassName=Morpheus_LED2 Member=Component R210 150
+Added Member To Class: ClassName=Morpheus_LED2 Member=Component R211 150
+Added Member To Class: ClassName=Morpheus_LED2 Member=Component R212 150
+Added Member To Class: ClassName=Morpheus_LED1 Member=Component U101 DNP
+Added Room: Name=Morpheus_LED2

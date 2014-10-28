@@ -1,0 +1,4 @@
+Change Component Comment : Designator=R106 Old Comment=0 New Comment=DNP
+Change Component Comment : Designator=* Old Comment=74HCT2G04 New Comment=DNP
+Change Component Comment : Designator=R107 Old Comment=DNP New Comment=0
+Change Class Name : Old Net Name=LED_ring New Net Name=Morpheus_LED1

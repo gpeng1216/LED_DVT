@@ -1,0 +1,5 @@
+Change Component DesignItemId : Designator=U101 Old DesignItemId=WS2812 New DesignItemId=WS2812S
+Change Component Description : Designator=U101 Old Description=WS2812 Intelligent control LED integrated light source New Description=WS2812S Intelligent control LED integrated light source
+Change Class Name : Old Net Name=Morpheus_LED1 New Net Name=Morpheus_LED2
+Added Class: Name=Morpheus_LED1
+Added Room: Name=Morpheus_LED2

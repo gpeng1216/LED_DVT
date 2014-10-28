@@ -1,0 +1,59 @@
+Removed Pin From Net: NetName=VCC_201 Pin=C209-2
+Removed Pin From Net: NetName=VCC_202 Pin=C210-2
+Removed Pin From Net: NetName=VCC_203 Pin=C211-2
+Removed Pin From Net: NetName=VCC_204 Pin=C212-2
+Removed Pin From Net: NetName=VCC_201 Pin=C215-2
+Removed Pin From Net: NetName=VCC_202 Pin=C216-2
+Removed Pin From Net: NetName=VCC_203 Pin=C217-2
+Removed Pin From Net: NetName=VCC_204 Pin=C218-2
+Removed Pin From Net: NetName=VCC_201 Pin=R205-1
+Removed Pin From Net: NetName=VCC_202 Pin=R206-1
+Removed Pin From Net: NetName=VCC_203 Pin=R207-1
+Removed Pin From Net: NetName=VCC_204 Pin=R208-1
+Removed Pin From Net: NetName=VCC_201 Pin=R209-1
+Removed Pin From Net: NetName=VCC_202 Pin=R210-1
+Removed Pin From Net: NetName=VCC_203 Pin=R211-1
+Removed Pin From Net: NetName=VCC_204 Pin=R212-1
+Removed Pin From Net: NetName=VCC_201 Pin=U205-3
+Removed Pin From Net: NetName=VCC_202 Pin=U206-3
+Removed Pin From Net: NetName=VCC_203 Pin=U207-3
+Removed Pin From Net: NetName=VCC_204 Pin=U208-3
+Removed Pin From Net: NetName=VCC_201 Pin=U209-3
+Removed Pin From Net: NetName=VCC_202 Pin=U210-3
+Removed Pin From Net: NetName=VCC_203 Pin=U211-3
+Removed Pin From Net: NetName=VCC_204 Pin=U212-3
+Change Net Name : Old Net Name=NetR102_1 New Net Name=INNER
+Added Pin To Net: NetName=VCC_205 Pin=C209-2
+Added Pin To Net: NetName=VCC_205 Pin=R205-1
+Added Pin To Net: NetName=VCC_205 Pin=U205-3
+Added Net: Name=VCC_205
+Added Pin To Net: NetName=VCC_206 Pin=C210-2
+Added Pin To Net: NetName=VCC_206 Pin=R206-1
+Added Pin To Net: NetName=VCC_206 Pin=U206-3
+Added Net: Name=VCC_206
+Added Pin To Net: NetName=VCC_207 Pin=C211-2
+Added Pin To Net: NetName=VCC_207 Pin=R207-1
+Added Pin To Net: NetName=VCC_207 Pin=U207-3
+Added Net: Name=VCC_207
+Added Pin To Net: NetName=VCC_208 Pin=C212-2
+Added Pin To Net: NetName=VCC_208 Pin=R208-1
+Added Pin To Net: NetName=VCC_208 Pin=U208-3
+Added Net: Name=VCC_208
+Added Pin To Net: NetName=VCC_209 Pin=C215-2
+Added Pin To Net: NetName=VCC_209 Pin=R209-1
+Added Pin To Net: NetName=VCC_209 Pin=U209-3
+Added Net: Name=VCC_209
+Added Pin To Net: NetName=VCC_210 Pin=C216-2
+Added Pin To Net: NetName=VCC_210 Pin=R210-1
+Added Pin To Net: NetName=VCC_210 Pin=U210-3
+Added Net: Name=VCC_210
+Added Pin To Net: NetName=VCC_211 Pin=C217-2
+Added Pin To Net: NetName=VCC_211 Pin=R211-1
+Added Pin To Net: NetName=VCC_211 Pin=U211-3
+Added Net: Name=VCC_211
+Added Pin To Net: NetName=VCC_212 Pin=C218-2
+Added Pin To Net: NetName=VCC_212 Pin=R212-1
+Added Pin To Net: NetName=VCC_212 Pin=U212-3
+Added Net: Name=VCC_212
+Added Member To Class: ClassName=Morpheus_LED1 Member=Component R106 0
+Added Room: Name=Morpheus_LED2
